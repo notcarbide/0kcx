@@ -13,7 +13,7 @@ const styles = {
     rounded-md
     text-white
     bg-indigo-600
-    hover[outline-none bg-indigo-700 shadow-2xl2]
+    hover[outline-none bg-indigo-700 shadow-md-white]
     transition duration-150 ease-in-out
   `,
 }

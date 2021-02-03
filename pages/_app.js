@@ -8,7 +8,7 @@ function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Zer0k.cx - My Projects</title>
+        <title>0k.cx - My Projects</title>
       </Head>
       <Global
         //keyframes + ring and shadow classes variables  ... to global styles

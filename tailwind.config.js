@@ -7,7 +7,7 @@ module.exports = {
       colors,
     },
     boxShadow: {
-      '2xl2': '0 35px 50px -15px #FFFFFF',
+      'md-white': '0 4px 6px -1px rgba(255, 255, 255, 0.7)',
     },
   },
   variants: {},
